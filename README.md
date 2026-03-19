@@ -19,12 +19,12 @@ I love to learn new technologies and collaborate with others to create innovativ
 
 ## My Stats
 
-![Profile Views](https://komarev.com/ghpvc/?username=Don-Debug&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Debug-000&color=blueviolet&style=flat-square)
 <br/>
-![Debug's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Don-Debug&show_icons=true&hide_border=true)
+![Debug's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Debug-000&show_icons=true&hide_border=true)
 
 ## Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Don-Debug&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Debug-000&layout=compact)
 
 ## Connect with Me
 
